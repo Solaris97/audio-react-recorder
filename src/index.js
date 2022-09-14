@@ -38,8 +38,8 @@ export default class AudioReactRecorder extends React.Component {
     type: 'audio/wav',
     backgroundColor: 'rgb(200, 200, 200)',
     foregroundColor: 'rgb(0, 0, 0)',
-    canvasWidth: 500,
-    canvasHeight: 300
+    canvasWidth: 800,
+    canvasHeight: 500
   }
 
   //2 - mount
